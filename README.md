@@ -13,3 +13,11 @@ git pull
 git status
 
 git log
+
+git branch
+
+git checkout
+
+git merge
+
+git diff
